@@ -1,0 +1,15 @@
+Organization: Labtam Australia Pty. Ltd., Melbourne, Australia
+Date: Mon, 3 May 1993 06:34:21 GMT
+Message-ID: <1993May3.063421.13898@labtam.labtam.oz.au>
+References: <sherman.736068579@lea> <1993Apr29.102341.13820@comp.lancs.ac.uk> <46464@sophia.inria.fr>
+Lines: 9
+
+In article <46464@sophia.inria.fr>, muller@mafalda.inria.fr (Christophe Muller) writes:
+> Anyway, at SIMULOG, we will abandon xv. We were using it mostly for slide-
+> shows because of its "-loop" feature that display does not have (display
+> from the *wonderful* ImageMagick package! :-D), but I think I will implement
+> it myself (even a shell-script should do the job) and forget xv.
+
+xli and xloadimage have a -goto flag.
+
+	Graeme Gill.

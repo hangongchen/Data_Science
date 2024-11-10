@@ -1,0 +1,20 @@
+Message-ID: <1993May19.162749.5110@lambda.msfc.nasa.gov>
+Summary: I need an od interface
+Keywords: X od
+Organization: NASA/MSFC
+Date: Wed, 19 May 1993 16:27:49 GMT
+Lines: 13
+
+
+Hello,
+
+I was wondering if anyone knew of an interface to od ( octal dump ), I assume
+it would be called xod.  Actually, any viewer for a core file will do.
+
+I looked at export ( @ mit ) in the index of /contrib, but didn't find anything 
+relevant.
+
+
+			Thanks,
+			I Hate bama & winter
+			main@superman.msfc.nasa.gov

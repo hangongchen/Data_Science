@@ -1,0 +1,11 @@
+Date: 23 Apr 1993 19:20:52 GMT
+Organization: University of Washington
+Lines: 4
+Message-ID: <1r9fikINN81o@shelley.u.washington.edu>
+References: <h01sav.dsyibm.desy.de-230493200218@michael.desy.de>
+NNTP-Posting-Host: carson.u.washington.edu
+
+Double speed performance from a CD drive does not require SCSI-2 interfacing.
+The resultant 300 kbps speed is well within the transfer rate of an LC. In
+other words, I believe you have been given incorrect information.
+

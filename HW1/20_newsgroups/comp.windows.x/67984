@@ -1,0 +1,20 @@
+Subject: Scaling fonts in X
+Message-ID: <smnC6wE51.3oJ@netcom.com>
+Date: 12 May 93 05:05:24 GMT
+Article-I.D.: netcom.smnC6wE51.3oJ
+Organization: NETCOM On-line Communication Services (408 241-9760 guest)
+Lines: 13
+
+
+X/Motif Gurus,
+
+	How do you handling scaling of X text while performing zooming 
+operations  on figures? Is restricting user to select scalable fonts too 
+restrictive and  a absolute NO NO?
+Any books that have discussion on this topic?  Should have really taken more 
+of those Computer Graphics courses but, now its too late -:( )
+
+	I will summarize response.
+Thanks in advance.
+
+-Subodh ( smn@netcom.com )

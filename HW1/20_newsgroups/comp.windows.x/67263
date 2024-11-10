@@ -1,0 +1,19 @@
+Subject: Re: X Toolkits
+Summary: Get the Athena 3D widget set
+Message-ID: <1r9im4$tf@vtserf.cc.vt.edu>
+Date: 23 Apr 93 20:13:56 GMT
+References: <C5y8wJ.3zE@undergrad.math.uwaterloo.ca>
+Distribution: inet
+Organization: Virginia Tech, Blacksburg, VA
+Lines: 9
+NNTP-Posting-Host: vtaix.cc.vt.edu
+
+
+ libXaw3d, the 3D Athena widget set will greatly improve the
+"sculptured" look. In Linux, with its shared, jump-table libs, you
+don't even have to recompile or relink. you merely have to:
+ ln -sf /lib/libXaw3d.so.3.0 /lib/libXaw.so.3
+
+
+
+   thomas

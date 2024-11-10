@@ -1,0 +1,10 @@
+Message-ID: <93114.172134CHLBS079@TWNMOE10.BITNET>
+Newsgroups: comp.windows.x
+Subject: change default visual
+Lines: 5
+
+My HP720 workstation uses PseudoColor (id 0x21, 255 colors) as the
+
+default visual.  How can I start X with different visual as default?
+
+

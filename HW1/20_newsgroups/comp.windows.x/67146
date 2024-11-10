@@ -1,0 +1,19 @@
+Date: 21 Apr 1993 13:19:19 -0400
+Organization: The Internet
+Lines: 12
+Sender: news@athena.mit.edu
+Message-ID: <27808.9304211039@scorpion.dps.co.uk>
+To: xpert@expo.lcs.mit.edu
+
+
+pyeatt@Texaco.com writes:
+
+>> There is a widget already defined for GL.  It is the GlxMDraw (motif) or
+>> GlxDraw (athena) widget.  It is similar to a XmDrawingArea, except that it
+>> allows you to use GL calls to render into the window.  Look at glxlink,
+>> glxunlink, glxgetconfig, and glxwinset in the man pages.
+
+Where do I get hold of these widgets?
+
+ 	Gerard O'Driscoll (gerard.odriscoll@dps.co.uk)
+ 	Du Pont Pixel Systems Ltd.

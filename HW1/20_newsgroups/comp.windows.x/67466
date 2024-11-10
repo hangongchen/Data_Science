@@ -1,0 +1,21 @@
+Date: 29 Apr 1993 15:56:18 -0400
+Organization: The Internet
+Lines: 13
+Sender: news@athena.mit.edu
+Message-ID: <9304291711.AA29414@nms.hls.com>
+NNTP-Posting-Host: enterpoop.mit.edu
+To: xpert@expo.lcs.mit.edu
+
+Hi,
+
+   We have a requirement for dynamically closing and opening
+different display servers within an X application in a manner such
+that at any time there is only one display associated with the client.
+
+   Assumming a proper cleanup is done during the transition should
+we anticipate any problems.
+
+
+kartik
+kartik@hls.com
+

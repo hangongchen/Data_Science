@@ -1,0 +1,17 @@
+Message-ID: <C5pw8r.xC@news.Hawaii.Edu>
+Sender: news@news.Hawaii.Edu
+Organization: University of Hawaii, College of Engineering
+Date: Mon, 19 Apr 1993 06:19:38 GMT
+Lines: 11
+
+Hi there,
+
+With a 16Megs of RAM, is there a need to run/load Smartdrv for
+Windows 3.1?  If yes, can I run/load Ramdrive without Smartdrv?
+If I need both Ramdrive & Smartdrv, is the following Config.Sys
+settings OK:  ...SMARTDRV.SYS 2048 2048
+              ...RAMDRIVE.SYS 2048 /E
+
+Thanks in advance for e-mail reply.
+
+yuan@wiliki.eng.hawaii.edu

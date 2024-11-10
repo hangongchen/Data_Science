@@ -1,0 +1,18 @@
+Message-ID: <hess.734959172@swt1>
+Summary: is there a way for a parent window to overpaint its childs?
+Keywords: xwindow, parent-child relation
+Sender: news@informatik.uni-hamburg.de (Mr. News)
+Organization: University of Hamburg, Germany
+Distribution: comp
+Date: Fri, 16 Apr 1993 11:19:32 GMT
+Lines: 9
+
+Hi,
+
+I wonder if it is possible for a parent window to paint over the area of
+its childs. If it is not, then how could it be possible to implement a 
+rubberband across multiple xwindows to select the objects that are
+displayed one in each window?
+
+Hauke
+

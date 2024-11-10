@@ -1,0 +1,21 @@
+Subject: Correction on my last posting (GLX & lack of cous on Dialog Widget)
+Organization: U. Wisconsin-Madison, Robotics Laboratory
+Date: 22 Apr 93 18:29:09
+Message-ID: <REZNIK.93Apr22182909@robios5.me.wisc.edu>
+References: <1993Apr22.182255.26127@doug.cae.wisc.edu>
+In-reply-to: reznik@robios5.me.wisc.edu's message of 22 Apr 93 18:22:55 CDT
+Lines: 13
+
+On the code I sent, please replace the line:
+
+   XtAddCallback(PopUpShell, XtNcallback, MyPopUp, (XtPointer)PopUpShell);
+
+by
+
+   XtAddCallback(Button, XtNcallback, MyPopUp, (XtPointer)PopUpShell);
+
+--- 
+
+The rest (and my question) remains the same...
+
+Dan

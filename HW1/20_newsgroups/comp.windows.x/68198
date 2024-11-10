@@ -1,0 +1,17 @@
+Message-ID: <491@plsparc.UUCP>
+Date: 16 May 93 01:15:19 GMT
+Sender: mufti@plsparc.UUCP
+Followup-To: comp.windows.x
+Organization: Personal Library Software, Inc.
+Lines: 10
+
+Is there a portable and convenient way to use color picture files in
+the .xpm format to define an X pixmap in a Motif application? Any
+functions, pointers, tips etc. would be most welcome.
+
+--------------------
+Saad Mufti
+Personal Library Software
+
+e-mail: mufti@pls.com
+

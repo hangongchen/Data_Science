@@ -1,0 +1,16 @@
+Date: 19 Apr 93 16:33:40
+Organization: Thinking Machines Corporation, Cambridge MA, USA
+Lines: 9
+Distribution: comp
+Message-ID: <DAN.93Apr19163340@tremor.think.com>
+NNTP-Posting-Host: tremor.quake.think.com
+
+
+I am looking for software to draw a graph.  I want to just give it a list
+of nodes and edges between the nodes and have the program come up with some
+reasonable positioning of it.  
+
+Thanks in advance.
+
+--Dan Aronson	dan@think.com
+Thinking Machines Corporation

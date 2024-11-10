@@ -1,0 +1,16 @@
+Message-ID: <MORGAN.93Apr23165205@dl5000.bc.edu>
+Date: 23 Apr 93 21:52:05 GMT
+Sender: news@cs.umb.edu (netnews)
+Organization: Institute for Space Research, Boston College
+Lines: 9
+Nntp-Posting-Host: dl5000.bc.edu
+
+I'm writing a driver that needs to remap some I/O ports.  This means
+virtual mode.  Unfortunately virtual mode means it won't get along
+with expanded memory managers, so I need make it an EMM driver too.
+
+Does anyone out there have EMM code.  Can any point me to an EMM code source?
+
+-Thanks, Morgan
+--
+<morgan@DL5000.bc.edu>

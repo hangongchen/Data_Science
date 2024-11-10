@@ -1,0 +1,14 @@
+Message-ID: <C5w7z5.Iwv@undergrad.math.uwaterloo.ca>
+Sender: news@undergrad.math.uwaterloo.ca
+Organization: University of Waterloo
+Distribution: can
+Date: Thu, 22 Apr 1993 16:18:41 GMT
+Lines: 7
+
+Can anyone point me to a cross compiler and/or assembler for the Motorola
+68008, hosted by a PC compatible.  Preferable Free or Shareware.  
+
+Also does anyone know of a GNU CC port to this chip.
+
+Thanks in advance.
+

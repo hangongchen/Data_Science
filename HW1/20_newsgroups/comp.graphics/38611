@@ -1,0 +1,20 @@
+Subject: JPEG file format?
+Message-ID: <1993Apr22.003031.6467@microsoft.com>
+Date: 22 Apr 93 00:30:31 GMT
+Organization: Microsoft Corp.
+Lines: 11
+
+
+Where could I find a description of the JPG file format?  Specifically
+I need to know where in a JPG file I can find the height and width of 
+the image, and perhaps even the number of colors being used.
+
+Any suggestions?
+
+Peter
+
+-- 
+(*)-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\/-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+(*)
+(   UUCP:         peterbak@microsoft  ||   Is this all that I am?  Is there   )
+(   CompuServe:   71170,1426          ||   nothing more?    - V'ger           )
+(*)-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-/\-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+(*)

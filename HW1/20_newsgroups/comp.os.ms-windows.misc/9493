@@ -1,0 +1,13 @@
+Subject: re: Help with WinQVT
+Message-ID: <1993Apr16.102738.784@c1.nkw.ac.uk>
+Date: 16 Apr 93 10:27:38 GMT
+References: <1qjk8sINNr9@master.cs.rose-hulman.edu>
+Sender: Thomas A W Brown (Tommy)
+Reply-To: tb@ua.nbu.ac.uk
+Organization: Natural Environment Research Council
+Lines: 4
+
+
+I had a similar problem - try changing the netmask to 0.0.0.0 or 255.255.254.0
+
+Tommy.

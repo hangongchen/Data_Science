@@ -1,0 +1,16 @@
+Subject: Looking for polygon "convexifier"
+Date: 30 Apr 1993 03:16:21 GMT
+Organization: University of Colorado at Colorado Springs
+Lines: 8
+Distribution: world
+Message-ID: <1rq5m5INNmpp@harpo.uccs.edu>
+NNTP-Posting-Host: piglet.uccs.edu
+
+Does anyone know where I can find a code which would take concave
+polygons and break them up into a set of convex polygons?
+
+Thanks,
+
+Kevin
+sahr@piglet.uccs.edu
+
